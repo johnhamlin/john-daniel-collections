@@ -1,0 +1,32 @@
+#books {
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.card {
+    max-width: 25%;
+    width: auto;
+    padding: 2%;
+   margin: 2rem;
+}
+img {
+
+    height: auto;
+  
+    margin: auto;
+    object-fit: contain;
+    width: 60%;
+    min-width: 60%;
+}
+.card-image {
+    object-fit: contain;
+}
+
+.circle{
+    object-fit: contain;
+}
+
+.card-title{
+    font-weight: 900:
+}
